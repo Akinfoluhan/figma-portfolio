@@ -1,5 +1,6 @@
 import { ArrowDown } from 'lucide-react';
 import { Button } from './ui/button';
+import React from 'react';
 
 export function Hero() {
   const scrollToSection = (id: string) => {

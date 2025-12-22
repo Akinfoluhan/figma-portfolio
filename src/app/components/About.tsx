@@ -1,5 +1,6 @@
 import { Code2, Lightbulb, Users, Trophy } from 'lucide-react';
 import { Card } from './ui/card';
+import React from 'react';
 
 export function About() {
   const highlights = [

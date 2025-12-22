@@ -1,5 +1,6 @@
 import { GraduationCap } from 'lucide-react';
 import { Card } from './ui/card';
+import React from 'react';
 
 export function Education() {
   const education = [

@@ -1,6 +1,7 @@
 import { Briefcase, Calendar } from 'lucide-react';
 import { Card } from './ui/card';
 import { Badge } from './ui/badge';
+import React from 'react';
 
 export function Experience() {
   const experiences = [
